@@ -1,0 +1,138 @@
+[Nov 14 13:31:19] 
+[Nov 14 13:31:19] ==DUPLICATOR INSTALLER BOOTSTRAP v1.3.18==
+[Nov 14 13:31:19] ----------------------------------------------------
+[Nov 14 13:31:19] Installer bootstrap start
+[Nov 14 13:31:19] Using archive C:/MyPROGRAMS/OSPanel/domains/backupBrokerSite/broker_child_dublicator_f7a082a074b5b6293998_20191222191210_archive.zip
+[Nov 14 13:31:19] Ready to extract the installer
+[Nov 14 13:31:19] Checking permission of destination folder
+[Nov 14 13:31:19] ZipArchive exists so using that
+[Nov 14 13:31:20] Successfully opened C:/MyPROGRAMS/OSPanel/domains/backupBrokerSite/broker_child_dublicator_f7a082a074b5b6293998_20191222191210_archive.zip
+[Nov 14 13:31:20] Extracting all files from archive within dup-installer
+[Nov 14 13:31:20] Success: dup-installer/dup-database__f7a082a-22191210.sql >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:20] Success: dup-installer/dup-scan__f7a082a-22191210.json >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:20] Success: dup-installer/assets/font-awesome/css/all.min.css >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:20] Success: dup-installer/assets/font-awesome/css/index.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:20] Success: dup-installer/assets/font-awesome/index.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:20] Success: dup-installer/assets/font-awesome/webfonts/fa-brands-400.eot >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:20] Success: dup-installer/assets/font-awesome/webfonts/fa-brands-400.ttf >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:20] Success: dup-installer/assets/font-awesome/webfonts/fa-brands-400.woff >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:20] Success: dup-installer/assets/font-awesome/webfonts/fa-brands-400.woff2 >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:20] Success: dup-installer/assets/font-awesome/webfonts/fa-regular-400.eot >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:20] Success: dup-installer/assets/font-awesome/webfonts/fa-regular-400.ttf >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:21] Success: dup-installer/assets/font-awesome/webfonts/fa-regular-400.woff >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:21] Success: dup-installer/assets/font-awesome/webfonts/fa-regular-400.woff2 >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:21] Success: dup-installer/assets/font-awesome/webfonts/fa-solid-900.eot >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:21] Success: dup-installer/assets/font-awesome/webfonts/fa-solid-900.ttf >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:21] Success: dup-installer/assets/font-awesome/webfonts/fa-solid-900.woff >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:21] Success: dup-installer/assets/font-awesome/webfonts/fa-solid-900.woff2 >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:21] Success: dup-installer/assets/font-awesome/webfonts/index.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:21] Success: dup-installer/assets/images/index.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:21] Success: dup-installer/assets/images/ui-bg_glass_55_fbf9ee_1x400.png >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:21] Success: dup-installer/assets/images/ui-bg_glass_65_ffffff_1x400.png >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:21] Success: dup-installer/assets/images/ui-bg_glass_75_dadada_1x400.png >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:21] Success: dup-installer/assets/images/ui-bg_glass_75_e6e6e6_1x400.png >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:21] Success: dup-installer/assets/images/ui-bg_glass_95_fef1ec_1x400.png >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:21] Success: dup-installer/assets/images/ui-bg_highlight-soft_75_cccccc_1x100.png >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:21] Success: dup-installer/assets/images/ui-icons_222222_256x240.png >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:21] Success: dup-installer/assets/images/ui-icons_2e83ff_256x240.png >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:21] Success: dup-installer/assets/images/ui-icons_454545_256x240.png >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:21] Success: dup-installer/assets/images/ui-icons_888888_256x240.png >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:21] Success: dup-installer/assets/images/ui-icons_cd0a0a_256x240.png >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:21] Success: dup-installer/assets/inc.css.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:21] Success: dup-installer/assets/inc.js.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:21] Success: dup-installer/assets/inc.libs.css.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:22] Success: dup-installer/assets/inc.libs.js.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:22] Success: dup-installer/assets/index.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:22] Success: dup-installer/classes/class.crypt.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:22] Success: dup-installer/classes/class.csrf.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:22] Success: dup-installer/classes/class.db.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:22] Success: dup-installer/classes/class.engine.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:22] Success: dup-installer/classes/class.http.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:22] Success: dup-installer/classes/class.installer.state.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:22] Success: dup-installer/classes/class.logging.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:22] Success: dup-installer/classes/class.package.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:22] Success: dup-installer/classes/class.password.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:22] Success: dup-installer/classes/class.s3.func.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:22] Success: dup-installer/classes/class.server.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:22] Success: dup-installer/classes/class.view.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:22] Success: dup-installer/classes/config/class.archive.config.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:23] Success: dup-installer/classes/config/class.boot.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:23] Success: dup-installer/classes/config/class.conf.srv.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:23] Success: dup-installer/classes/config/class.constants.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:23] Success: dup-installer/classes/config/index.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:23] Success: dup-installer/classes/Crypt/Base.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:23] Success: dup-installer/classes/Crypt/index.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:23] Success: dup-installer/classes/Crypt/Random.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:23] Success: dup-installer/classes/Crypt/Rijndael.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:23] Success: dup-installer/classes/index.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:23] Success: dup-installer/classes/utilities/class.u.exceptions.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:23] Success: dup-installer/classes/utilities/class.u.html.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:23] Success: dup-installer/classes/utilities/class.u.notices.manager.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:23] Success: dup-installer/classes/utilities/class.u.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:23] Success: dup-installer/classes/utilities/class.u.search.reaplce.manager.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:23] Success: dup-installer/classes/utilities/index.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:23] Success: dup-installer/ctrls/ctrl.base.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:24] Success: dup-installer/ctrls/ctrl.s1.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:24] Success: dup-installer/ctrls/ctrl.s2.base.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:24] Success: dup-installer/ctrls/ctrl.s2.dbinstall.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:24] Success: dup-installer/ctrls/ctrl.s2.dbtest.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:24] Success: dup-installer/ctrls/ctrl.s3.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:24] Success: dup-installer/ctrls/index.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:24] Success: dup-installer/favicon/browserconfig.xml >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:24] Success: dup-installer/favicon/lite01_android-chrome-192x192.png >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:24] Success: dup-installer/favicon/lite01_android-chrome-256x256.png >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:24] Success: dup-installer/favicon/lite01_apple-touch-icon.png >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:24] Success: dup-installer/favicon/lite01_favicon-16x16.png >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:24] Success: dup-installer/favicon/lite01_favicon-32x32.png >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:24] Success: dup-installer/favicon/lite01_favicon.ico >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:24] Success: dup-installer/favicon/lite01_mstile-150x150.png >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:24] Success: dup-installer/favicon/lite01_safari-pinned-tab.svg >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:24] Success: dup-installer/favicon/site.webmanifest >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:24] Success: dup-installer/index.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:24] Success: dup-installer/main.installer.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:24] Success: dup-installer/views/index.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:24] Success: dup-installer/views/view.exception.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:25] Success: dup-installer/views/view.help.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:25] Success: dup-installer/views/view.init1.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:25] Success: dup-installer/views/view.s1.base.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:25] Success: dup-installer/views/view.s1.terms.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:25] Success: dup-installer/views/view.s2.base.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:26] Success: dup-installer/views/view.s2.basic.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:26] Success: dup-installer/views/view.s2.cpnl.lite.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:26] Success: dup-installer/views/view.s2.dbtest.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:26] Success: dup-installer/views/view.s3.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:26] Success: dup-installer/views/view.s4.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:26] Success: dup-installer/dup-archive__f7a082a-22191210.txt >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:26] Success: dup-installer/lib/snaplib/class.snaplib.exceptions.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:26] Success: dup-installer/lib/snaplib/class.snaplib.logger.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:26] Success: dup-installer/lib/snaplib/class.snaplib.u.io.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:26] Success: dup-installer/lib/snaplib/class.snaplib.u.net.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:27] Success: dup-installer/lib/snaplib/class.snaplib.u.os.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:27] Success: dup-installer/lib/snaplib/class.snaplib.u.stream.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:27] Success: dup-installer/lib/snaplib/class.snaplib.u.string.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:27] Success: dup-installer/lib/snaplib/class.snaplib.u.ui.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:27] Success: dup-installer/lib/snaplib/class.snaplib.u.url.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:27] Success: dup-installer/lib/snaplib/class.snaplib.u.util.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:27] Success: dup-installer/lib/snaplib/class.snaplib.u.wp.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:27] Success: dup-installer/lib/snaplib/index.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:27] Success: dup-installer/lib/snaplib/snaplib.all.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:27] Success: dup-installer/lib/snaplib/wordpress.core.files.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:27] Success: dup-installer/lib/config/class.wp.config.tranformer.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:27] Success: dup-installer/lib/config/class.wp.config.tranformer.src.php >>> C:\MyPROGRAMS\OSPanel\domains\backupBrokerSite
+[Nov 14 13:31:27] Successfully closed archive file
+[Nov 14 13:31:27] Successfully extracted with ZipArchive
+[Nov 14 13:31:27] No need to create dup-installer/.htaccess or dup-installer/.user.ini
+[Nov 14 13:31:27] ERROR:  SAPI: Unrecognized
+[Nov 14 13:31:27] Set permissions of C:/MyPROGRAMS/OSPanel/domains/backupBrokerSite/dup-installer to 0<br/>
+[Nov 14 13:31:27] Set permissions of C:/MyPROGRAMS/OSPanel/domains/backupBrokerSite/dup-installer/assets to 0<br/>
+[Nov 14 13:31:27] Set permissions of C:/MyPROGRAMS/OSPanel/domains/backupBrokerSite/dup-installer/classes to 0<br/>
+[Nov 14 13:31:27] Set permissions of C:/MyPROGRAMS/OSPanel/domains/backupBrokerSite/dup-installer/ctrls to 0<br/>
+[Nov 14 13:31:27] Set permissions of C:/MyPROGRAMS/OSPanel/domains/backupBrokerSite/dup-installer/favicon to 0<br/>
+[Nov 14 13:31:27] Set permissions of C:/MyPROGRAMS/OSPanel/domains/backupBrokerSite/dup-installer/lib to 0<br/>
+[Nov 14 13:31:27] Set permissions of C:/MyPROGRAMS/OSPanel/domains/backupBrokerSite/dup-installer/views to 0<br/>
+[Nov 14 13:31:27] Set permissions of C:/MyPROGRAMS/OSPanel/domains/backupBrokerSite/dup-installer/dup-archive__f7a082a-22191210.txt to 0<br/>
+[Nov 14 13:31:27] Set permissions of C:/MyPROGRAMS/OSPanel/domains/backupBrokerSite/dup-installer/dup-database__f7a082a-22191210.sql to 0<br/>
+[Nov 14 13:31:27] Set permissions of C:/MyPROGRAMS/OSPanel/domains/backupBrokerSite/dup-installer/dup-scan__f7a082a-22191210.json to 0<br/>
+[Nov 14 13:31:27] Set permissions of C:/MyPROGRAMS/OSPanel/domains/backupBrokerSite/dup-installer/index.php to 0<br/>
+[Nov 14 13:31:27] Set permissions of C:/MyPROGRAMS/OSPanel/domains/backupBrokerSite/dup-installer/main.installer.php to 0<br/>
+[Nov 14 13:31:27] DONE: No detected errors so redirecting to the main installer. Main Installer URI = http://backupbrokersite/dup-installer/main.installer.php
