@@ -152,10 +152,10 @@ $table_prefix = 'wp_';
 define( 'WP_DEBUG', false );
 
 
-define( 'WP_SITEURL', 'http://backupbrokersite' );
+define( 'WP_SITEURL', 'https://brokerservices.netlify.app' );
 
 
-define( 'WP_HOME', 'http://backupbrokersite' );
+define( 'WP_HOME', 'https://brokerservices.netlify.app' );
 
 
 /* That's all, stop editing! Happy publishing. */
